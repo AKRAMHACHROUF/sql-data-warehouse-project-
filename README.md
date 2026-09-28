@@ -1,7 +1,3 @@
-Here is the professionally rewritten and polished `README.md` file tailored as your own portfolio project, complete with image placeholders:
-
----
-
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
