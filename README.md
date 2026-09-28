@@ -66,10 +66,6 @@ Developing deep, SQL-driven analytics to uncover actionable insights into:
 * **Product Performance**
 * **Sales Trends**
 
-For more details, refer to [docs/requirements.md](https://www.google.com/search?q=docs/requirements.md&utm_source=gemini).
-
----
-
 ## 📂 Repository Structure
 
 ```text
