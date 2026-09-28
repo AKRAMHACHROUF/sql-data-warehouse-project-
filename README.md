@@ -113,10 +113,9 @@ This project is licensed under the [MIT License](https://www.google.com/search?q
 
 ## 🌟 About Me
 
-Hi there! I'm AKRAM HACHROUF, passionate about data engineering, building robust data solutions, and turning complex data into valuable insights.
+Hi there! I'm **Akram Hachrouf**, passionate about data engineering, building robust data solutions, and turning complex data into valuable insights. 
 
 Let's connect! Feel free to reach out via the platforms below:
-
 - **LinkedIn:** [Akram Hachrouf](https://www.linkedin.com/in/hachroufakram)
-* **GitHub:** [Insert your GitHub profile link]
-* **Email:** Hachrouf68@gmail.com
+- **GitHub:** [Akram Hachrouf](https://github.com/AKRAMHACHROUF)
+- **Email:** [hachrouf68@gmail.com](mailto:hachrouf68@gmail.com)
